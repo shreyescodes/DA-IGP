@@ -1,0 +1,11 @@
+# Security & Credentials
+.env
+
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# Data Directories
+data/raw/
+data/clean/
